@@ -495,6 +495,8 @@ truffle插件：
 
 [substrate的文档](https://paritytech.github.io/ink-docs/)
 
+[RustChain](https://github.com/Scottcjn/RustChain) DePIN区块链 - 老旧硬件挖矿的AI-Augmented Proof of Real Machines
+
 #### parity全家桶
 
 [parity-ethereum](https://github.com/paritytech/parity-ethereum)
